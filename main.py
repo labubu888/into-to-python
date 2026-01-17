@@ -1,0 +1,1 @@
+print("hii! this is jaiannah Bulani and ny hobby is to swim i also love doing art and coding and the result of 60+7 is:",60+7)
